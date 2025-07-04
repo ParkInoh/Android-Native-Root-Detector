@@ -9,7 +9,7 @@
     <string name="settings_label">설정</string>
     <string name="support_us">후원하기</string>
     <string name="detail">상세:</string>
-    <string name="about_view_source_code"><![CDATA[Join our %1$s channel<br/><br>Copyright © %2$s<br/>]]></string>
+    <string name="about_view_source_code"><![CDATA[우리 %1$s 채널에 참가해 주세요<br/><br>Copyright © %2$s<br/>]]></string>
     <string name="About">About</string>
     <!-- _a & _b are set for certain languages -->
     <string name="true_a">온</string>
@@ -62,10 +62,11 @@
     <string name="sl">슬로베니아어</string>
     <string name="tr_tr">튀르키예어 (터키어)</string>
     <string name="vi">베트남어</string>
-    <string name="zh_cn">중국어 (중국)</string>
-    <string name="zh_tw">중국어 (대만)</string>
+    <string name="zh_cn">중국어 (간체)</string>
+    <string name="zh_tw">중국어 (번체)</string>
     <string name="bg">불가리아어</string>
-
+    <string name="ko">한국어</string>
+    
     <!-- Update Strings -->
     <string name="failed_to_get_update_info">업데이트 정보를 가져오지 못했습니다</string>
     <string name="update_available">업데이트 가능</string>
